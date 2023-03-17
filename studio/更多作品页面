@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T15:14:42.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="hTNbUagjMWlXUTZ9Kwht" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T15:16:34.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="HeOVADUMQUyT4rzRR8Oz" version="21.0.6" type="github">
   <diagram name="第 1 页" id="T-djfi6OrD7pdGuQG9W2">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
             <mxPoint x="330" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfVModj1AlEY1TE3qKCh-7" value="用户点击其中一个作品worksDetails、/works/worksDetail?id=1、&lt;br&gt;get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="ZfVModj1AlEY1TE3qKCh-2">
+        <mxCell id="ZfVModj1AlEY1TE3qKCh-7" value="用户点击其中一个作品worksDetail、/works/worksDetail?id=1、&lt;br&gt;get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="ZfVModj1AlEY1TE3qKCh-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="330" y="280" as="sourcePoint" />
             <mxPoint x="410" y="280" as="targetPoint" />
