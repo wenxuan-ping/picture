@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T14:50:54.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="O5UoPw3XhkUvt_Qe7MXO" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T15:54:02.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="pUx4v5gzYSnCbX81wsW-" version="21.0.6" type="github">
   <diagram name="第 1 页" id="l_86pfcGSIO8M3Cba6D0">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMwep5ecoOgc02fYtZZ8-6" value="返回多个Power对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="yMwep5ecoOgc02fYtZZ8-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="yMwep5ecoOgc02fYtZZ8-6" value="返回R对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="yMwep5ecoOgc02fYtZZ8-2">
+          <mxGeometry x="0.0011" relative="1" as="geometry">
             <mxPoint x="720" y="200" as="sourcePoint" />
             <mxPoint x="310" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="300" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yMwep5ecoOgc02fYtZZ8-7" value="点击增加按钮power请求方法、/powerUser/power?power=power对象、post请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="yMwep5ecoOgc02fYtZZ8-2">
@@ -48,7 +49,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMwep5ecoOgc02fYtZZ8-8" value="返回多个Power对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="yMwep5ecoOgc02fYtZZ8-2">
+        <mxCell id="yMwep5ecoOgc02fYtZZ8-8" value="返回R对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="yMwep5ecoOgc02fYtZZ8-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="300" as="sourcePoint" />
             <mxPoint x="310" y="390" as="targetPoint" />
@@ -77,7 +78,7 @@
         <mxCell id="yMwep5ecoOgc02fYtZZ8-13" value="弹出模态框，将power对象&lt;br&gt;数据展示到模态框上，用户&lt;br&gt;修改模态框内容" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="530" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yMwep5ecoOgc02fYtZZ8-14" value="点击模态框修改按钮power请求方法、/powerManage/power?power=power对象、&lt;br&gt;put请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="yMwep5ecoOgc02fYtZZ8-2">
+        <mxCell id="yMwep5ecoOgc02fYtZZ8-14" value="点击模态框修改按钮power请求方法、/powerUser/power?power=power对象、&lt;br&gt;put请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="yMwep5ecoOgc02fYtZZ8-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="310" y="690" as="sourcePoint" />
             <mxPoint x="390" y="650" as="targetPoint" />
