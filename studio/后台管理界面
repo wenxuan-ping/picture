@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T14:44:17.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="HWXOq1wQvzmTnbaf8FjK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T15:42:49.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="mvwTHlMMwPtSV11apQYL" version="21.0.6" type="github">
   <diagram name="第 1 页" id="X0CgSgVgqhX4JqeK2q0w">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,23 +10,24 @@
         <mxCell id="-ee3DH_tQFyWZUiFIKNs-2" value="BackUserController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="120" height="1180" as="geometry" />
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-3" value="成员管理、member请求方法、/backUser/member、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
-          <mxGeometry x="0.0013" width="80" relative="1" as="geometry">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-3" value="点击成员管理member请求方法、/backUser/member、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
+          <mxGeometry x="0.0012" width="80" relative="1" as="geometry">
             <mxPoint x="70" y="160" as="sourcePoint" />
             <mxPoint x="270" y="160" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-4" value="所有的成员信息List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-4" value="List&amp;lt;Member&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
             <mxPoint x="150" y="200" as="sourcePoint" />
             <mxPoint x="70" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="190" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-5" value="点击新闻管理、news请求方法、/backUser/news、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-5" value="点击新闻管理news请求方法、/backUser/news、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry x="-0.0989" width="80" relative="1" as="geometry">
             <mxPoint x="70" y="260" as="sourcePoint" />
             <mxPoint x="470" y="160" as="targetPoint" />
@@ -36,8 +37,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-6" value="所有的新闻信息List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2" target="-ee3DH_tQFyWZUiFIKNs-1">
-          <mxGeometry x="-0.2169" relative="1" as="geometry">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-6" value="List&amp;lt;News&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2" target="-ee3DH_tQFyWZUiFIKNs-1">
+          <mxGeometry x="-0.219" relative="1" as="geometry">
             <mxPoint x="470" y="190" as="sourcePoint" />
             <mxPoint x="70" y="190" as="targetPoint" />
             <Array as="points">
@@ -47,7 +48,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-7" value="点击文章管理、article请求方法、/backUser/article、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-7" value="点击文章管理article请求方法、/backUser/article、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry x="-0.1271" width="80" relative="1" as="geometry">
             <mxPoint x="80" y="360" as="sourcePoint" />
             <mxPoint x="470" y="260" as="targetPoint" />
@@ -58,8 +59,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-8" value="返回所有的文章信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
-          <mxGeometry x="-0.0013" relative="1" as="geometry">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-8" value="List&amp;lt;Article&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
             <mxPoint x="470" y="300" as="sourcePoint" />
             <mxPoint x="70" y="400" as="targetPoint" />
             <Array as="points">
@@ -70,28 +71,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-9" value="点击作品管理、works请求方法、/backUser/works、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-9" value="点击作品管理works请求方法、/backUser/works、get请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry x="0.0013" width="80" relative="1" as="geometry">
             <mxPoint x="70" y="460" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-11" value="返回所有的作品信息List" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-11" value="List&amp;lt;Works&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
+          <mxGeometry x="0.0012" relative="1" as="geometry">
             <mxPoint x="150" y="510" as="sourcePoint" />
             <mxPoint x="70" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-13" value="有四个增加按钮：&lt;br&gt;点击增加按钮弹出对应的模态框，&lt;br&gt;分别是对成员、新闻、文章、作品的增加" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-1">
-          <mxGeometry x="0.0011" y="-20" width="80" relative="1" as="geometry">
-            <mxPoint x="70" y="560" as="sourcePoint" />
-            <mxPoint x="150" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="600" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -153,12 +145,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-22" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="950" width="115" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-ee3DH_tQFyWZUiFIKNs-23" value="弹出模态框将member数据展示到模态框中，&lt;br&gt;后台管理员修改信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="940" width="260" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="-ee3DH_tQFyWZUiFIKNs-24" value="点击模态框中的修改按钮memberUpdate请求方法、&lt;br&gt;/backUser/member?Member对象、put请求" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="70" y="1030" as="sourcePoint" />
@@ -186,8 +172,17 @@
         <mxCell id="-ee3DH_tQFyWZUiFIKNs-27" value="返回R对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="1190" as="sourcePoint" />
-            <mxPoint x="70" y="1190" as="targetPoint" />
+            <mxPoint x="80" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="1160" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-28" value="有四个增加按钮：&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;点击增加按钮弹出对应的模态框，&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;分别是对成员、新闻、文章、作品的增加&lt;/span&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="530" width="275" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ee3DH_tQFyWZUiFIKNs-29" value="弹出模态框将member数据展示到&lt;br&gt;模态框中，&lt;span style=&quot;&quot;&gt;后台管理员修改信息&lt;/span&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="910" width="235" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
