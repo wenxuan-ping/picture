@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T03:31:42.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="NY49LXCxg_-7i-_gTxET" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T03:37:47.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="Aq_opq2nsUnzNX1_khSD" version="21.0.8" type="github">
   <diagram name="第 1 页" id="JowRNFL-IHUDAM_oUeDv">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OVDvTkCnakmO0EWrl24O-1" value="1.发送异步请求，查询状态为1、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;类型为1文章的成果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WiQ_Cv2_eJJJKWwxu9tj-3">
+        <mxCell id="OVDvTkCnakmO0EWrl24O-1" value="1.发送异步请求，查询状态为1、&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;类型为1文章的成果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WiQ_Cv2_eJJJKWwxu9tj-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0913" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -41,6 +41,26 @@
         </mxCell>
         <mxCell id="WiQ_Cv2_eJJJKWwxu9tj-6" value="成果详情页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
           <mxGeometry x="840" y="85" width="100" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="9OyNhLMNQpB0UGEiRCur-1" value="4.发送异步请求，查询一个&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;类型为1文章的成果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="WiQ_Cv2_eJJJKWwxu9tj-6">
+          <mxGeometry x="-0.0019" y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="330" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9OyNhLMNQpB0UGEiRCur-4" value="5.返回Fruit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="WiQ_Cv2_eJJJKWwxu9tj-2" target="WiQ_Cv2_eJJJKWwxu9tj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="360" as="sourcePoint" />
+            <mxPoint x="680" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="370" />
+              <mxPoint x="730" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
