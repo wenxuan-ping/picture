@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T04:34:20.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="ygX98w7M5VvnNdpKXPuY" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T04:36:57.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="LVL4PqWXvbubnMqIWUbJ" version="21.0.8" type="github">
   <diagram name="第 1 页" id="cT1Rz4tcfEho6igHit5g">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="290" y="440" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="290" y="510" width="660" height="300" as="geometry" />
+          <mxGeometry x="290" y="510" width="720" height="300" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="130" height="250" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="305" y="660" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="490" height="250" as="geometry" />
+          <mxGeometry x="440" y="540" width="540" height="250" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-9" value="退出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="510" width="50" height="30" as="geometry" />
@@ -73,14 +73,14 @@
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-10" value="你好，张三（用户名）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="510" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hT-IBgO-AIC4zlLzdGWb-11" value="多选框&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;姓名&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;性别&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;专业&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;年级&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="625" width="440" height="25" as="geometry" />
+        <mxCell id="hT-IBgO-AIC4zlLzdGWb-11" value="多选框&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;姓名&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;性别&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;专业&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;年级&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;成员&lt;/span&gt;类型" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="625" width="490" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hT-IBgO-AIC4zlLzdGWb-12" value="单选框&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;sex&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;speciality&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;grade&lt;span style=&quot;white-space: pre;&quot;&gt;	启用&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;删除&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;修改" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="650" width="440" height="25" as="geometry" />
+        <mxCell id="hT-IBgO-AIC4zlLzdGWb-12" value="单选框&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;sex&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;speciality&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;grade&lt;span style=&quot;white-space: pre;&quot;&gt;	me&lt;/span&gt;mberType&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;启用&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;删除&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;修改" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="490" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="hT-IBgO-AIC4zlLzdGWb-13" value="单选框	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;sex&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;speciality&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;grade&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;启用&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;&lt;/span&gt;删除&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;修改" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="675" width="440" height="25" as="geometry" />
+        <mxCell id="hT-IBgO-AIC4zlLzdGWb-13" value="单选框	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;name&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;sex&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;speciality&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;grade&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;memberType&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;启用&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;&lt;/span&gt;删除&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;	&lt;/span&gt;修改" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="675" width="490" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-18" value="批量删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="815" y="310" width="80" height="30" as="geometry" />
@@ -116,13 +116,16 @@
           <mxGeometry x="560" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-32" value="查询" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="820" y="570" width="70" height="30" as="geometry" />
+          <mxGeometry x="880" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-33" value="专业：" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hT-IBgO-AIC4zlLzdGWb-34" value="年级：" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="720" y="570" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hT-IBgO-AIC4zlLzdGWb-35" value="成员类型：" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="800" y="570" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
