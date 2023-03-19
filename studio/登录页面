@@ -1,22 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T15:27:07.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="v2zpXguWDr6Ue9xd65BU" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T03:42:16.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="zJBiGmidlOliC027ENwY" version="21.0.8" type="github">
   <diagram name="第 1 页" id="iLH5lzH0f8G82YmpCrOk">
     <mxGraphModel dx="1621" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-1" value="登录页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="260" width="70" height="470" as="geometry" />
+        <mxCell id="QFRbMQLf3MzRRpaH5afD-1" value="登录页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="260" width="70" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-2" value="LoginController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="110" height="450" as="geometry" />
+        <mxCell id="QFRbMQLf3MzRRpaH5afD-2" value="LoginController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="110" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-3" value="后台管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="650" y="260" width="100" height="450" as="geometry" />
+        <mxCell id="QFRbMQLf3MzRRpaH5afD-3" value="用户页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="100" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-4" value="权限管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
-          <mxGeometry x="790" y="265" width="100" height="445" as="geometry" />
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-5" value="点击后台管理登录按钮、backUserLogin请求方法、/login/backUserLogin?name=“zhangsan”&amp;amp;password=“123456”" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-1" target="QFRbMQLf3MzRRpaH5afD-2">
+        <mxCell id="QFRbMQLf3MzRRpaH5afD-5" value="1.点击登录发送异步请求，" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="QFRbMQLf3MzRRpaH5afD-1" target="QFRbMQLf3MzRRpaH5afD-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="150" y="400" as="sourcePoint" />
             <mxPoint x="270" y="420" as="targetPoint" />
@@ -29,56 +26,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-38" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.996;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-48" target="QFRbMQLf3MzRRpaH5afD-3">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="510" y="440" as="sourcePoint" />
-            <mxPoint x="670" y="440" as="targetPoint" />
+        <mxCell id="dedhaoiWuqugZBhP63ZF-1" value="2.登录失败，输出错误信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-2">
+          <mxGeometry x="0.007" relative="1" as="geometry">
+            <mxPoint x="-50" y="360" as="sourcePoint" />
+            <mxPoint x="-130" y="360" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-39" value="跳转到后台管理界面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QFRbMQLf3MzRRpaH5afD-38">
-          <mxGeometry x="-0.2981" y="1" relative="1" as="geometry">
-            <mxPoint x="-120" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-42" value="点击权限管理登录按钮、powerUserLogin请求方法、/login/powerUserLogin?name=“zhangsan”&amp;amp;password=“123456”" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="QFRbMQLf3MzRRpaH5afD-2">
-          <mxGeometry x="-0.0008" width="80" relative="1" as="geometry">
-            <mxPoint x="-130" y="530" as="sourcePoint" />
-            <mxPoint x="-60" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-50" y="530" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-45" value="返回R对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-2">
+        <mxCell id="dedhaoiWuqugZBhP63ZF-3" value="3.登录成功跳转到用户页面" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-2" target="QFRbMQLf3MzRRpaH5afD-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="360" as="sourcePoint" />
-            <mxPoint x="-140" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-48" value="如果R的code属性为0，则输出登录失败，&lt;br&gt;否则" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="385" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-49" value="如果R的code属性为0，则输出登录失败，&lt;br&gt;否则" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="570" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-50" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.996;exitY=0.554;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="QFRbMQLf3MzRRpaH5afD-49" parent="1" target="QFRbMQLf3MzRRpaH5afD-4">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="600" as="sourcePoint" />
-            <mxPoint x="710" y="589" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-51" value="跳转到后台管理界面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QFRbMQLf3MzRRpaH5afD-50">
-          <mxGeometry x="-0.2981" y="1" relative="1" as="geometry">
-            <mxPoint x="-120" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QFRbMQLf3MzRRpaH5afD-52" value="返回R对象" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QFRbMQLf3MzRRpaH5afD-2" target="QFRbMQLf3MzRRpaH5afD-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="360" as="sourcePoint" />
-            <mxPoint x="-140" y="360" as="targetPoint" />
+            <mxPoint x="650" y="400" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="570" />
+              <mxPoint x="220" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
