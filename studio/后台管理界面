@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T04:03:00.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="obKbiVxSnkcNgLnYBluu" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T04:06:20.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="9VUTa6QT7GD47GXBvMCI" version="21.0.8" type="github">
   <diagram name="第 1 页" id="X0CgSgVgqhX4JqeK2q0w">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,8 +114,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eDLa20OEVYJemPTfzrM4-20" value="15.弹出模态框，将返回的fruit显示&lt;br&gt;到模态框中，用户修改内容，&lt;br&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="820" width="220" height="60" as="geometry" />
+        <mxCell id="eDLa20OEVYJemPTfzrM4-20" value="15.弹出模态框，将返回的fruit显示&lt;br&gt;到模态框中，用户修改内容，" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="810" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eDLa20OEVYJemPTfzrM4-22" value="16.点击模态框的修改，修改指定fruitId的fruit" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="eDLa20OEVYJemPTfzrM4-14" target="-ee3DH_tQFyWZUiFIKNs-2">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -133,6 +133,27 @@
             <mxPoint x="550" y="960" as="targetPoint" />
             <Array as="points">
               <mxPoint x="590" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDLa20OEVYJemPTfzrM4-25" value="18.点击添加，弹出模态框，用户&lt;br&gt;在模态框中输入内容" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="980" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eDLa20OEVYJemPTfzrM4-26" value="19.点击模态框的添加，添加类型为1的fruit" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="eDLa20OEVYJemPTfzrM4-14" target="-ee3DH_tQFyWZUiFIKNs-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="530" y="1070" as="sourcePoint" />
+            <mxPoint x="610" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eDLa20OEVYJemPTfzrM4-27" value="20.返回添加的fruit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="-ee3DH_tQFyWZUiFIKNs-2" target="eDLa20OEVYJemPTfzrM4-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1100" as="sourcePoint" />
+            <mxPoint x="490" y="1100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
