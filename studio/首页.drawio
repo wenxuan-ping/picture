@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T03:26:07.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="jt4asBL8bXlHnJEdRPro" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T03:29:30.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="EK2UcBLPzt1JRi9hsUpT" version="21.0.8" type="github">
   <diagram name="第 1 页" id="AI5iocT0Zc6IOnxWYvlK">
     <mxGraphModel dx="1621" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="PmZG84Nu5TXr525l0W39-1" value="首页" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
           <mxGeometry x="60" y="400" width="70" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="PmZG84Nu5TXr525l0W39-2" value="IndexController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
+        <mxCell id="PmZG84Nu5TXr525l0W39-2" value="FruitController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
           <mxGeometry x="340" y="390" width="110" height="790" as="geometry" />
         </mxCell>
         <mxCell id="PmZG84Nu5TXr525l0W39-3" value="关于我们页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" parent="1" vertex="1">
