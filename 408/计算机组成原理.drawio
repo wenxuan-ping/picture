@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="NdO7ddikCDrrMnbQGeTA">
-    <mxGraphModel dx="2555" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3131" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,8 +168,92 @@
         <mxCell id="aB8WgA6ujAJQyl2d1k43-41" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;扇区号&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;（4bit）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1450" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aB8WgA6ujAJQyl2d1k43-42" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 16px;&quot;&gt;磁盘地址的基本组成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1580" width="170" height="30" as="geometry" />
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-42" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 25px;&quot;&gt;磁盘地址的基本组成&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1525" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1860" width="400" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-44" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;微信&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（1GB）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1903" width="110" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-45" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;爱奇艺&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（512MB）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1903" width="125" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-46" value="&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;微博&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;（512MB）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1990" width="125" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;王者荣耀&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;（2GB）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2050" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;外存（128GB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1800" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1860" width="160" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-50" value="文字聊天" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1903" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-52" value="视频聊天" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1940" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-53" value="朋友圈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1977" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-54" value="……" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2014" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-55" value="其他数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2051" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="2000" as="sourcePoint" />
+            <mxPoint x="190" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;启动微信&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1951.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;内存（4GB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1810" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-305" y="1860" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-60" value="视频聊天" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1907.5" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-61" value="……" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1944.5" width="110" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="2000" as="sourcePoint" />
+            <mxPoint x="-130" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-63" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;复制&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="1951.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cache（4MB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1810" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="aB8WgA6ujAJQyl2d1k43-65" target="aB8WgA6ujAJQyl2d1k43-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-65" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;CPU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="2000" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-67" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;取指令&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="1963" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-68" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;取数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="2010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aB8WgA6ujAJQyl2d1k43-69" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 25px;&quot;&gt;Cache的工作原理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="2345" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
