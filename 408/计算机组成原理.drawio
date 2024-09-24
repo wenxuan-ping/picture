@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="NdO7ddikCDrrMnbQGeTA">
-    <mxGraphModel dx="2012" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2257" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,15 +435,15 @@
         <mxCell id="nKyU-Lgk9dF2ljVHZnLK-18" value="存储芯片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="67" y="3467" width="153" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-1" target="2Gr0VqWvnMTgYeKfmAXD-11">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-1" target="2Gr0VqWvnMTgYeKfmAXD-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-202.5" y="3930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-1" value="虚拟页号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-1" value="虚拟页号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-302.5" y="3820" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-3" target="2Gr0VqWvnMTgYeKfmAXD-16">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-3" target="2Gr0VqWvnMTgYeKfmAXD-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="3835" />
@@ -451,22 +451,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-3" value="页内偏移量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#B3B3B3;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-3" value="页内偏移量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-102.5" y="3820" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-5" target="2Gr0VqWvnMTgYeKfmAXD-1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-5" target="2Gr0VqWvnMTgYeKfmAXD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-5" value="CPU根据虚拟地址访问数据或者指令（虚拟地址）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-5" value="CPU根据虚拟地址访问数据或者指令（虚拟地址）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-305" y="3720" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-7" value="虚拟地址分为虚拟页号 + 页内偏移量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-7" value="虚拟地址分为虚拟页号 + 页内偏移量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-265" y="3770" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-9" value="虚拟页号长度由计算机页面数量决定&lt;div&gt;页内偏移量由页面分为多少个地址决定&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-9" value="虚拟页号长度由计算机页面数量决定&lt;div&gt;页内偏移量由页面分为多少个地址决定&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-30" y="3765" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-11" target="2Gr0VqWvnMTgYeKfmAXD-15">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-11" target="2Gr0VqWvnMTgYeKfmAXD-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-210" y="4480" as="targetPoint" />
             <Array as="points">
@@ -476,99 +476,170 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-11" target="2Gr0VqWvnMTgYeKfmAXD-22">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-11" target="2Gr0VqWvnMTgYeKfmAXD-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-200" y="4150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-11" value="1. 用虚拟页号和TLB的标记一一比对，当虚拟页号和TLB标记比对成功，同时有效位为1，则能找到对应的页框号。&lt;div&gt;2. 如果找到页框号，则快表TLB命中，无需查询内存中的慢表。&lt;/div&gt;&lt;div&gt;3. 如果未找到页框号，则快表TLB未命中，则需要查询内存中的慢表。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-11" value="1. 用虚拟页号和TLB的标记一一比对，当虚拟页号和TLB标记比对成功，同时有效位为1，则能找到对应的页框号。&lt;div&gt;2. 如果找到页框号，则快表TLB命中，无需查询内存中的慢表。&lt;/div&gt;&lt;div&gt;3. 如果未找到页框号，则快表TLB未命中，则需要查询内存中的慢表。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-510" y="3970" width="615" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-12" value="① 查快表TLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-12" value="① 查快表TLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-205" y="3878" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-15" target="2Gr0VqWvnMTgYeKfmAXD-29">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-15" target="2Gr0VqWvnMTgYeKfmAXD-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-15" value="页框号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDE8D8;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-15" value="页框号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDE8D8;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-305" y="4390" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-16" value="页内偏移量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D3E8DE;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-16" value="页内偏移量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D3E8DE;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-105" y="4390" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-17" value="快表命中，快表中获取到页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-17" value="快表命中，快表中获取到页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="3980" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-19" value="虚拟页号中包含着页目录索引，直接找到一级页表对应的页目录项，页目录项中包含页框号。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E6F7FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-19" value="虚拟页号中包含着页目录索引，直接找到一级页表对应的页目录项，页目录项中包含页框号。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E6F7FF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-515" y="4150" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-21" value="② 查询内存中的慢表，慢表始址由操作系统维护，每个进程对应一个慢表，对应进程的慢表的始址存储在进程的PCB中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-21" value="② 查询内存中的慢表，慢表始址由操作系统维护，每个进程对应一个慢表，对应进程的慢表的始址存储在进程的PCB中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-525" y="4076.5" width="650" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-22" target="2Gr0VqWvnMTgYeKfmAXD-15">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-22" target="2Gr0VqWvnMTgYeKfmAXD-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-22" value="虚拟页号先根据页目录索引，获取二级页表对应的始址，查二级页表，获取页框号。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#BBBDBF;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-22" value="虚拟页号先根据页目录索引，获取二级页表对应的始址，查二级页表，获取页框号。" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#BBBDBF;" parent="1" vertex="1">
           <mxGeometry x="-205" y="4150" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-23" value="查一级页表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-23" value="查一级页表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-418" y="4230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-24" value="查二级页表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-24" value="查二级页表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-85" y="4230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-25" value="根据虚拟页号查询页表获取页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-25" value="根据虚拟页号查询页表获取页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="4170" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-28" value="页表中获取页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-28" value="页表中获取页框号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-260" y="4260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-29" target="2Gr0VqWvnMTgYeKfmAXD-37">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-29" target="2Gr0VqWvnMTgYeKfmAXD-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-29" value="物理地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-29" value="物理地址" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-307.5" y="4490" width="305" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-33" value="③ TLB或者慢表中获取到页框号，页框号与虚拟地址中的页内偏移量拼接得到物理地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-33" value="③ TLB或者慢表中获取到页框号，页框号与虚拟地址中的页内偏移量拼接得到物理地址" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-395" y="4440" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-34" value="全相联" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFEDF8;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-34" value="全相联" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFEDF8;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-301.25" y="4578" width="97.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-37" value="直接映射" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFD4F6;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-37" value="直接映射" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFD4F6;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-203.75" y="4578" width="97.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-38" target="2Gr0VqWvnMTgYeKfmAXD-45">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-38" target="2Gr0VqWvnMTgYeKfmAXD-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="4800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-38" value="组相联" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFE6EF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-38" value="组相联" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFE6EF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-106.25" y="4578" width="97.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-40" value="④ 查询Cache，获取数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-40" value="④ 查询Cache，获取数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-210" y="4538" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-41" target="2Gr0VqWvnMTgYeKfmAXD-45">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-41" target="2Gr0VqWvnMTgYeKfmAXD-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-41" value="内存" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-41" value="内存" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-307.5" y="4760" width="297.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-37" target="2Gr0VqWvnMTgYeKfmAXD-41">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2Gr0VqWvnMTgYeKfmAXD-37" target="2Gr0VqWvnMTgYeKfmAXD-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-43" value="⑤ Cache查询失败，则获取内存中指定物理地址的内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-43" value="⑤ Cache查询失败，则获取内存中指定物理地址的内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-310" y="4708" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-45" value="数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-45" value="数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="200" y="4776" width="97.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-47" value="总结：&lt;div&gt;1. CPU访问虚拟地址的内容或者指令&lt;/div&gt;&lt;div&gt;2. 虚拟地址转物理地址&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1 先查询TLB，如果TLB命中直接获取到页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1.1 TLB全相联：虚拟页号和TLB标记一一对比，获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1.2 TLB组相联：虚拟页号末尾n位为组号，查询对应组获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2 TLB未命中，查询内存中的慢表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.1 一级页表：虚拟页号直接查询一级页表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.2 二级页表：虚拟页号查询一级页表获取二级页表的始址，再去查询二级页表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 物理地址获取数据&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1 先查询Cache，如果Cache命中获取到数据或指令&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.1 全相联：物理地址和Cache的标记一一对比，获取Cache行的数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.2 直接映射：物理地址对应某个Cache行比对，获取Cache行数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.3 组映射：物理地址对应某个Cache组，物理地址和Cache组内的所有Cache行一一对比，获取Cache行数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.2 Cache未命中，查询内存指令存储单元获取数据或指令&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-47" value="总结：&lt;div&gt;1. CPU访问虚拟地址的内容或者指令&lt;/div&gt;&lt;div&gt;2. 虚拟地址转物理地址&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1 先查询TLB，如果TLB命中直接获取到页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1.1 TLB全相联：虚拟页号和TLB标记一一对比，获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.1.2 TLB组相联：虚拟页号末尾n位为组号，查询对应组获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2 TLB未命中，查询内存中的慢表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.1 一级页表：虚拟页号直接查询一级页表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2.2.2 二级页表：虚拟页号查询一级页表获取二级页表的始址，再去查询二级页表获取页框号&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 物理地址获取数据&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1 先查询Cache，如果Cache命中获取到数据或指令&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.1 全相联：物理地址和Cache的标记一一对比，获取Cache行的数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.2 直接映射：物理地址对应某个Cache行比对，获取Cache行数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.1.3 组映射：物理地址对应某个Cache组，物理地址和Cache组内的所有Cache行一一对比，获取Cache行数据&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3.2 Cache未命中，查询内存指令存储单元获取数据或指令&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="600" y="4140" width="670" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-48" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 25px;&quot;&gt;存储系统访问内存的流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2Gr0VqWvnMTgYeKfmAXD-48" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 25px;&quot;&gt;存储系统访问内存的流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-80" y="4940" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.501;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-285.92" y="5399.5" as="targetPoint" />
+            <mxPoint x="-134.9979999999995" y="5399.380000000001" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=trapezoid;perimeter=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="5380" width="130" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-2" target="Mys34NmljctCIGewRPt2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="5313.551724137931" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="5418.379310344828" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+          <mxGeometry x="-8.75" y="5261" width="326" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;加法器&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="5346" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;X&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="5293" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MUX&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-128.75" y="5406.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Y&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-325.92" y="5379.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255.91999999999976" y="5397.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-15" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2" vertex="1" parent="1">
+          <mxGeometry x="-235.92" y="5427.5" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.686;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-15" target="Mys34NmljctCIGewRPt2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-140" y="5446" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;取反&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-240.92" y="5463.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Sub减法&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="5130" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.102;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-19" target="Mys34NmljctCIGewRPt2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.396;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mys34NmljctCIGewRPt2-19" target="Mys34NmljctCIGewRPt2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cin&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="5203" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="312.25" y="5345" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;减法：Cin = 0，Cout = X + Y&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;减法：Cin = 0，Cout = X + Y取反 + Cin(1)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="5530" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mys34NmljctCIGewRPt2-26" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;加减运算部件&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-118.5" y="5630" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
