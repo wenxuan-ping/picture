@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="第 1 页" id="NdO7ddikCDrrMnbQGeTA">
-    <mxGraphModel dx="2257" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -635,7 +635,7 @@
         <mxCell id="Mys34NmljctCIGewRPt2-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cout&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="312.25" y="5345" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mys34NmljctCIGewRPt2-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;减法：Cin = 0，Cout = X + Y&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;减法：Cin = 0，Cout = X + Y取反 + Cin(1)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Mys34NmljctCIGewRPt2-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;加法：Cin = 0，Cout = X + Y&lt;/font&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;减法：Cin = 0，Cout = X + Y取反 + Cin(1)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-190" y="5530" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mys34NmljctCIGewRPt2-26" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;加减运算部件&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
